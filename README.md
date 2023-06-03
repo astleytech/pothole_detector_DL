@@ -10,4 +10,8 @@
 https://astleytech-pothole-detector-dl-app-pang4o.streamlit.app/
 
 # Link to Google colab Files: 
+1. InceptionV3 https://colab.research.google.com/drive/1_30CMi_L8n2Zs8L4lIVmWxfmiO2wneoS
+2. Resenet50 https://colab.research.google.com/drive/1NLQXj1ouEkUgjjqXQ0yf500IahReUj1M
+3. vgg16 https://colab.research.google.com/drive/1ucJKLvLhth2cx8873r2Tqo0jsES3nwf2
+4. self built https://colab.research.google.com/drive/1432yruvRFBDDGwIbM4fVonqUC06Bp532
 

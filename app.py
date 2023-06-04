@@ -40,8 +40,8 @@ def predict(image):
     return class_name, 100 * np.max(score)
 
 def main():    
-    st.title('Pothole Detector using Deep Convolutional Nueral Networks')
-    st.write('This app uses improved deep Convolutional Nueral models to classify images as either containing a pothole or not.')
+    st.title('Pothole Detector using Deep Convolutional Neural Networks')
+    st.write('This app uses improved deep Convolutional Neural models to classify images as either containing a pothole or not.')
     
     # Allow the user to upload an image file
     uploaded_file = st.file_uploader('Upload an image', type=['jpg', 'jpeg', 'png'])
